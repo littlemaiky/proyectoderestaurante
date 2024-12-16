@@ -1,0 +1,20 @@
+[
+  {
+    "email": "016201232J@UANDINA.EDU.PE",
+    "password": "123456",
+    "nombre": "Juan",
+    "nivel": "Administrador"
+  },
+  {
+    "email": "user2@example.com",
+    "password": "qwerty",
+    "nombre": "Maria",
+    "nivel": "Cliente"
+  },
+  {
+    "email": "gerente@example.com",
+    "password": "gerente123",
+    "nombre": "Luis",
+    "nivel": "Gerente"
+  }
+]
